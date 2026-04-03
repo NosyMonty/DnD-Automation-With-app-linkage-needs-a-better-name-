@@ -1,12 +1,12 @@
 aiofiles==25.1.0
 aiohappyeyeballs==2.6.1
-aiohttp==3.13.3
+aiohttp==3.13.4
 aiosignal==1.4.0
 annotated-types==0.7.0
 anthropic==0.76.0
 anyio==4.12.1
 attrs==25.4.0
-Authlib==1.6.6
+Authlib==1.6.9
 backoff==2.2.1
 beautifulsoup4==4.14.3
 browser-use-sdk==2.0.15
@@ -18,7 +18,7 @@ charset-normalizer==3.4.5
 click==8.3.1
 cloudpickle==3.1.2
 colorama==0.4.6
-cryptography==46.0.5
+cryptography==46.0.6
 dataclasses-json==0.6.7
 defusedxml==0.7.1
 distro==1.9.0
@@ -47,7 +47,7 @@ jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
 langchain-classic==1.0.3
 langchain-community==0.4.1
-langchain-core==1.2.19
+langchain-core==1.2.22
 langchain-ollama==1.0.1
 langchain-text-splitters==1.1.1
 langsmith==0.7.17
@@ -70,7 +70,7 @@ openvino-tokenizers==2026.0.0.0
 orjson==3.11.7
 packaging==24.2
 pfzy==0.3.4
-pillow==12.1.0
+pillow==12.1.1
 playwright==1.58.0
 portalocker==2.10.1
 posthog==7.7.0
@@ -79,7 +79,7 @@ propcache==0.4.1
 proto-plus==1.27.1
 protobuf==6.33.5
 psutil==7.2.2
-pyasn1==0.6.2
+pyasn1==0.6.3
 pyasn1_modules==0.4.2
 pycparser==3.0
 pydantic==2.11.5
@@ -90,7 +90,7 @@ Pygments==2.19.2
 PyJWT==2.12.1
 pyotp==2.9.0
 pyparsing==3.3.2
-pypdf==6.6.2
+pypdf==6.9.2
 python-dateutil==2.9.0.post0
 python-docx==1.2.0
 python-dotenv==1.2.1
@@ -100,7 +100,7 @@ PyYAML==6.0.3
 referencing==0.37.0
 regex==2026.2.28
 reportlab==4.4.9
-requests==2.32.5
+requests==2.33.0
 requests-oauthlib==2.0.0
 requests-toolbelt==1.0.0
 rich==14.3.1
