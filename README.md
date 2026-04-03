@@ -30,7 +30,8 @@ HOW TO INSTALL
 4. Open PowerShell and type cd "your file location here"
 5. Activate a virtual environment
     - .venv/scripts/activate
-  6. type pip install requirements.txt
+  6. type
+     - pip install -r requirements.txt
   7. Wait for it to finish installing
   8. Update the .env.exaple file with your Ollama model and login credentials for vvw.worlds
   9. build ai agnet by typing the following in the same PowerShell tab as before
